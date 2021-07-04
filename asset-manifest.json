@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/tugas_7_react_js/static/js/main.fdbab4ad.chunk.js",
+    "main.js.map": "/tugas_7_react_js/static/js/main.fdbab4ad.chunk.js.map",
+    "runtime-main.js": "/tugas_7_react_js/static/js/runtime-main.6aa8c442.js",
+    "runtime-main.js.map": "/tugas_7_react_js/static/js/runtime-main.6aa8c442.js.map",
+    "static/js/2.1510cce2.chunk.js": "/tugas_7_react_js/static/js/2.1510cce2.chunk.js",
+    "static/js/2.1510cce2.chunk.js.map": "/tugas_7_react_js/static/js/2.1510cce2.chunk.js.map",
+    "static/js/3.4a3f0232.chunk.js": "/tugas_7_react_js/static/js/3.4a3f0232.chunk.js",
+    "static/js/3.4a3f0232.chunk.js.map": "/tugas_7_react_js/static/js/3.4a3f0232.chunk.js.map",
+    "index.html": "/tugas_7_react_js/index.html",
+    "static/js/2.1510cce2.chunk.js.LICENSE.txt": "/tugas_7_react_js/static/js/2.1510cce2.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6aa8c442.js",
+    "static/js/2.1510cce2.chunk.js",
+    "static/js/main.fdbab4ad.chunk.js"
+  ]
+}
